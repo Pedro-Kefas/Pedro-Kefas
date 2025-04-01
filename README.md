@@ -7,7 +7,7 @@
 
 **`Estudante de Cibersegurança e Programação Back-End`**
 
-Me chamo Pedro. Tenho 22 anos e sou natural do Rio de Janeiro - RJ. Estou cursando Defesa Cibernética. Gosto de editar videos usando After Effects e Premiere. Também gosto de estudar idiomas como Russo 🇷🇺. No qual já sou nível A2 e pretendo ficar fluente. Tenho interesse em me tornar um especialista em Cybersecurity.
+Me chamo Pedro. Tenho 22 anos e sou natural do Rio de Janeiro - RJ. Estou cursando Defesa Cibernética. Gosto de editar videos usando After Effects e Premiere. Também gosto de estudar o idioma Russo 🇷🇺. No qual já sou nível A2 e pretendo ficar fluente. Tenho interesse em me tornar um especialista em Cybersecurity.
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
