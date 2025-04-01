@@ -1,11 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00000&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E9F2ED&size=35&center=true&vCenter=true&width=1000&lines=Cybersecurity+and+Back-End+Student;Seja+bem-vindo(a))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E9F2ED&size=35&center=true&vCenter=true&width=1000&lines=Cybersecurity+Student;Seja+bem-vindo(a))](https://git.io/typing-svg)
 
 # 👨‍💻 Pedro Kefas
 
-**`Estudante de Cibersegurança e Programação Back-End`**
+**`Estudante de Cibersegurança`**
 
 Me chamo Pedro. Tenho 22 anos e sou natural do Rio de Janeiro - RJ. 🇧🇷 Estou cursando Defesa Cibernética. Gosto de editar videos usando After Effects e Premiere. Também gosto de estudar o idioma Russo 🇷🇺. No qual já sou nível A2 e pretendo ficar fluente. Tenho interesse em me tornar um especialista em Cybersecurity e Poliglota. 🇧🇷🇷🇺🇨🇳🇬🇧
 
