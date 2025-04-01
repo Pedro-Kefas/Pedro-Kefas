@@ -58,12 +58,4 @@ func main(){
 
 <br/>
 
-<p align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-<img
-    alt="Github Stats"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Viictor&theme=transparent&hide_border=false&include_all_commits=false&locale=pt-br&count_private=false&layout=compact&custom_tile=Tecnologias&langs_count=9"
-/>
-</p>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00000&height=120&section=footer"/>
