@@ -42,11 +42,6 @@ func main(){
     <a href="#"><img alt="HTML5" title="HTML5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/></a>&nbsp;&nbsp;
     <a href="#"><img alt="CSS3" title="CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/></a>&nbsp;&nbsp;
     <a href="#"><img alt="GOLANG" title="GOLANG" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"/></a>
-    <a href="#"><img alt="LINUX" title="LINUX" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/></a>&nbsp;&nbsp;
-    <a href="#"><img alt="GITHUB" title="GITHUB" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/></a>&nbsp;&nbsp;
-    <a href="#"><img alt="VSCODE" title="VSCODE" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/></a>&nbsp;&nbsp;
-    <a href="#"><img alt="After Effects" title="After Effects" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg"/></a>&nbsp;&nbsp;
-    <a href="#"><img alt="Premiere" title="Premiere" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg"/></a>
 </p>
 
  <br/>
