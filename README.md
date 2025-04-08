@@ -48,6 +48,7 @@ func main(){
     <a href="#"><img alt="LINUX" title="LINUX" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/></a>&nbsp;&nbsp;
     <a href="#"><img alt="GITHUB" title="GITHUB" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/></a>&nbsp;&nbsp;
     <a href="#"><img alt="VSCODE" title="VSCODE" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/></a>&nbsp;&nbsp;
+    <a href="#"><img alt="GOLAND" title="GOLAND" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/goland/goland-original.svg"/></a>&nbsp;&nbsp;
 </p>
 
  <br/>
