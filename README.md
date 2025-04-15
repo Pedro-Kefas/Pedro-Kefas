@@ -33,16 +33,24 @@ func main(){
 <br/>
 
 <div align="center">
-    <h3>🌐 Linguagens e Tecnologias</h3>
+    <h3>🧑‍💻🔧 Tecnologias e linguagens 🔧🧑‍💻</h3>
 </div>
-
-<br/>
-
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,go,github,vscode,linux,debian,kali,ae,pr" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,go,github,vscode" />
   </a>
 </p>
+<div align="center">
+    <h3>💾🐧 Sistemas Operacionais 🐧💾</h3>
+</div>
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=linux,debian,kali,windows" />
+  </a>
+</p>
+<div align="center">
+    <h3>🛠️🔗 Jetbrains IDE Goland 🔗🛠️</h3>
+</div>
 <p align="center">
     <a href="#"><img alt="GOLAND" title="GOLAND" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/goland/goland-original.svg"/></a>&nbsp;&nbsp;
 </p>
