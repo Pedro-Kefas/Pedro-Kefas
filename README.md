@@ -40,7 +40,7 @@ func main(){
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,go,github,vscode,linux,debian,kali" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,go,github,vscode,linux,debian,kali,ae,pr" />
   </a>
 </p>
 <p align="center">
