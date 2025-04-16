@@ -5,7 +5,7 @@
 
 # 👨‍💻 Pedro Kefas
 
-**`Estudante de Cibersegurança e Programador Golang`**
+**`Estudante de Cibersegurança`**
 </br>
 - Estou cursando Defesa Cibernética🔒🖥️🏴‍☠.
 - Tenho interesse em me tornar um especialista em Hacking como Malware Developer e Pentester.
