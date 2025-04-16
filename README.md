@@ -42,7 +42,7 @@ func main(){
     <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,go,github,vscode" />
 </p>
 <p align="center">
-    <img src="https://static.cdnlogo.com/logos/c/23/cursor.svg" alt="Cursor IDE" width="45" height="45"> <a href="#"><img alt="GOLAND" title="GOLAND" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/goland/goland-original.svg"/></a>&nbsp;&nbsp;
+    <img src="https://static.cdnlogo.com/logos/c/23/cursor.svg" alt="Cursor IDE" width="50" height="50"> <a href="#"><img alt="GOLAND" title="GOLAND" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/goland/goland-original.svg"/></a>&nbsp;&nbsp;
   </a>
 </p>
 <div align="center">
