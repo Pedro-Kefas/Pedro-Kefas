@@ -50,6 +50,15 @@ func main(){
 </p>
 
  <br/>
+
+ <p align="center">
+    <img 
+      align="center" 
+      alt="GitHub Stats" 
+      height="150" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Kefas&theme=tokyonight&layout=compact&custom_title=Linguagens+mais+usadas:&langs_count=9" 
+    />
+ </p>
  <br/>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffff&height=120&section=footer"/>
