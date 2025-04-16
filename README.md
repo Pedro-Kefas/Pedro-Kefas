@@ -6,8 +6,10 @@
 # 👨‍💻 Pedro Kefas
 
 **`Estudante de Cibersegurança`**
-
-Me chamo Pedro. Sou natural do Rio de Janeiro - RJ. 🇧🇷 Estou cursando Defesa Cibernética. Gosto de editar videos usando After Effects e Premiere. Também gosto de estudar o idioma Russo 🇷🇺. No qual já sou nível A2 e pretendo ficar fluente. Tenho interesse em me tornar um especialista em Cybersecurity e Poliglota. 🇧🇷🇷🇺🇨🇳🇬🇧
+</br>
+- Estou cursando Defesa Cibernética🔒🖥️🏴‍☠.
+- Tenho interesse em me tornar um especialista em Hacking como Malware Developer e Pentester.
+- Possuo nível de proficiência A2 no idioma Russo 🇷🇺 e pretendo ficar fluente. 🇧🇷🇷🇺
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
